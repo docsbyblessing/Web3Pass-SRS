@@ -7,7 +7,7 @@
 
 
 ##
-## [1. Introduction](Web3Pass-SRS/introduction.md)
+## [1. Introduction](introduction.md)
 ### 1.1 Purpose
 ### 1.2 Scope
 ### 1.3 Definitions, Acronyms, and Abbreviations
@@ -15,7 +15,7 @@
 ### 1.5 Overview
 
 ##
-## [2. General Description](Web3Pass-SRS/description.md)
+## [2. General Description](description.md)
 ### 2.1 Product Perspective
 ### 2.2 Product Features
 ### 2.3 User Classes and Characteristics
@@ -24,7 +24,7 @@
 ### 2.6 Assumptions and Dependencies
 
 ##
-## [3. Specific Requirements](Web3Pass-SRS/requirements.md)
+## [3. Specific Requirements](requirements.md)
 ### 3.1 External Interface Requirements
 #### 3.1.1 User Interfaces
 #### 3.1.2 API and Integration Interfaces
@@ -52,31 +52,31 @@
 #### 3.4.3 Data Requirements
 
 ##
-## [4. System Models](Web3Pass-SRS/system_models.md)
+## [4. System Models](system_models.md)
 ### 4.1 Use Case Diagrams
 ### 4.2 Sequence Diagrams
 ### 4.3 Data Flow Diagrams
 
 ##
-## [5. Testing and Quality Assurance](Web3Pass-SRS/test_quality_and_assurance.md)
+## [5. Testing and Quality Assurance]test_quality_and_assurance.md)
 ### 5.1 Test Cases and Scenarios
 ### 5.2 Quality Metrics and Acceptance Criteria
 
 ##
-## [6. User Documentation](Web3Pass-SRS/user_documentation.md)
+## [6. User Documentation](user_documentation.md)
 ### 6.1 User Guides and Manuals
 ### 6.2 API Documentation
 
 ##
-## [7. Project Timeline and Milestones](Web3Pass-SRS/project_timeline.md)
+## [7. Project Timeline and Milestones](project_timeline.md)
 
 ##
-## [8. Risks and Mitigation Strategies](Web3Pass-SRS/risks_and_mitigation_strategies.md)
+## [8. Risks and Mitigation Strategies](risks_and_mitigation_strategies.md)
 
 ##
-## [9. Glossary](Web3Pass-SRS/glossary.md)
+## [9. Glossary](glossary.md)
 
 ##
-## [10. Appendix](Web3Pass-SRS/appendix.md)
+## [10. Appendix](appendix.md)
 
 
